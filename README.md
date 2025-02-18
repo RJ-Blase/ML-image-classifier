@@ -1,4 +1,4 @@
-git clone https://github.com/jer-hub/image-classifier .
+
 
 
 python3.11 -m venv .venv
